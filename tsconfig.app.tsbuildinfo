@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/theme.ts","./src/vite-env.d.ts","./src/components/colormodeswitch.tsx","./src/components/criticscore.tsx","./src/components/gamecard.tsx","./src/components/gamegrid.tsx","./src/components/navbar.tsx","./src/components/platformiconlist.tsx","./src/hooks/usegame.tsx","./src/services/api-client.ts"],"errors":true,"version":"5.6.2"}
